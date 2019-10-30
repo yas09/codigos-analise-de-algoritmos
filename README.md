@@ -1,2 +1,2 @@
 # codigos-analise-de-algoritmos
-Pequenos códigos feitos para disciplina de análise de algoritmos.
+Snippets from my Algorithm Analysis class assignments.
